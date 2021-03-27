@@ -101,3 +101,16 @@ input:hover{
 #imagefile:hover{
     cursor: pointer;
 }
+
+.imageContainer{
+    border:none;
+    margin-left: 30px;
+}
+
+.resultImage{
+    border: none;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
